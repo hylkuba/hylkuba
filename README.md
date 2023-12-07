@@ -1,16 +1,17 @@
-### Hi there 👋
+# JAKUB HÝL
 
-<!--
-**hylkuba/hylkuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at CTU in Prague
 
-Here are some ideas to get you started:
+🌍 Studied abroad, gaining a global perspective in computer science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Experienced in various computer science fields
+
+---
+
+Welcome to my GitHub repository! I am Jakub Hýl, a dedicated Computer Science student currently pursuing my degree at the Czech Technical University in Prague. With a passion for learning, I have had the opportunity to expand my horizons through studying abroad, enriching my understanding of computer science from a global perspective.
+
+Feel free to explore the repositories, and don't hesitate to reach out for collaboration or discussions on anything related to computer science
+
+--- 
+
+Feel free to customize it further based on your actual experiences and fields of expertise!
