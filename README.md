@@ -9,7 +9,6 @@ Welcome to my GitHub repository! I am Jakub Hýl, a dedicated Computer Science s
 *   🌍  I'm based in Prague
 *   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/jakub-h%C3%BDl-194ba12a5/)
 *   🧠  I'm learning Software engineering and security
-*
 
 ### Skills:
 
