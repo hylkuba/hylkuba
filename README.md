@@ -32,4 +32,4 @@ Welcome to my GitHub repository! I am Jakub Hýl, a dedicated Computer Science s
 
 <br />
 
-<div width="100%" align="center"><a href="https://github.com/hylkuba/Advent-of-Code-2023" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hylkuba&repo=Advent-of-Code-2023&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/hylkuba/Advent-of-Code-2023" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hylkuba&repo=Advent-of-Code-2023&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hylkuba/LeetCode" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hylkuba&repo=LeetCode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
