@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jakub Hýl
+# Hi, I'm Jakub Hýl
 
 Full-Stack Software Engineer with a strong foundation in **C++**, **TypeScript**, and **React**, currently building production software while finishing my Bachelor's degree in Informatics & Data Science.
 
@@ -6,24 +6,24 @@ I enjoy working at the intersection of **clean architecture**, **real-world data
 
 ---
 
-## 🧠 What I do
+## What I do
 
-- 💻 **Software Engineering**
+- **Software Engineering**
   - C++ development in a large, production-grade codebase (mobile forensics tooling)
   - Web applications using TypeScript, React, Node.js, and Firebase
   - REST APIs, data modeling, debugging, and performance-aware design
 
-- 🎨 **UI / UX**
+- **UI / UX**
   - Clean, minimal interfaces with a focus on usability
   - Practical design decisions over flashy visuals
 
-- 📊 **Data & Economics**
+- **Data & Economics**
   - Strong background in data analysis, statistics, and economics
   - Comfortable working with real, messy data and turning it into insight
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -83,7 +83,7 @@ I enjoy working at the intersection of **clean architecture**, **real-world data
 
 ---
 
-## 📌 How I work
+## How I work
 
 - I care about **code readability** and **long-term maintainability**
 - I prefer simple, explicit solutions over clever but fragile ones
@@ -91,9 +91,9 @@ I enjoy working at the intersection of **clean architecture**, **real-world data
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
-- 🌐 Portfolio: https://jakubhyl.dev
-- 💼 LinkedIn: https://www.linkedin.com/in/hyl-jakub
+- Portfolio: https://jakubhyl.dev
+- LinkedIn: https://www.linkedin.com/in/hyl-jakub
 
 If something here caught your attention, feel free to reach out.
