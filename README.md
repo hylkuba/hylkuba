@@ -1,32 +1,99 @@
-Computer Science student
-------------------------
+# 👋 Hi, I'm Jakub Hýl
 
-Welcome to my GitHub repository! I am Jakub Hýl, a dedicated Computer Science student currently pursuing my degree at the Czech Technical University in Prague. With a passion for learning, I have had the opportunity to expand my horizons through studying abroad, enriching my understanding of computer science from a global perspective.
+Full-Stack Software Engineer with a strong foundation in **C++**, **TypeScript**, and **React**, currently building production software while finishing my Bachelor's degree in Informatics & Data Science.
 
-*   🌍  I'm based in Prague
-*   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/jakub-h%C3%BDl-194ba12a5/)
-*   🧠  I'm learning Software engineering and security
+I enjoy working at the intersection of **clean architecture**, **real-world data**, and **practical products**. Whether that’s large C++ systems, web applications, or well-designed developer tools.
 
-### Skills:
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
-                    
-### Socials
+## 🧠 What I do
 
-<p align="left"> <a href="https://www.github.com/hylkuba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jakub-hýl-194ba12a5/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+- 💻 **Software Engineering**
+  - C++ development in a large, production-grade codebase (mobile forensics tooling)
+  - Web applications using TypeScript, React, Node.js, and Firebase
+  - REST APIs, data modeling, debugging, and performance-aware design
 
-### Badges
+- 🎨 **UI / UX**
+  - Clean, minimal interfaces with a focus on usability
+  - Practical design decisions over flashy visuals
 
-<b>My GitHub Stats</b>
+- 📊 **Data & Economics**
+  - Strong background in data analysis, statistics, and economics
+  - Comfortable working with real, messy data and turning it into insight
 
-<a href="http://www.github.com/hylkuba"><img src="https://github-readme-stats.vercel.app/api?username=hylkuba&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hylkuba's GitHub stats" /></a>
+---
 
-<b>Top Repositories</b>
+## 🛠 Tech Stack
 
-<div width="100%" align="center"><a href="https://github.com/hylkuba/WordleClone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hylkuba&repo=WordleClone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hylkuba/Numberle-Clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hylkuba&repo=Numberle-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /><br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" /><br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind
+    </td>
+  </tr>
 
-<br />
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=scala" width="40" height="40" alt="Scala" /><br>Scala
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=qt" width="40" height="40" alt="Qt" /><br>Qt
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /><br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /><br>Linux
+    </td>
+  </tr>
+</table>
 
-<div width="100%" align="center"><a href="https://github.com/hylkuba/Advent-of-Code-2023" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hylkuba&repo=Advent-of-Code-2023&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hylkuba/LeetCode" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hylkuba&repo=LeetCode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+---
+
+## 📌 How I work
+
+- I care about **code readability** and **long-term maintainability**
+- I prefer simple, explicit solutions over clever but fragile ones
+- I enjoy understanding _why_ things work, not just _how_
+
+---
+
+## 📫 Get in touch
+
+- 🌐 Portfolio: https://jakubhyl.dev
+- 💼 LinkedIn: https://www.linkedin.com/in/hyl-jakub
+
+If something here caught your attention, feel free to reach out.
